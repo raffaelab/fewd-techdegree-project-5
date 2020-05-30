@@ -12,7 +12,6 @@ $('#search').on('keyup', function() {
 });
 
 lightbox.option({
-  'maxWidth': 800,
-  'positionFromTop': 100,
+  'maxWidth': 1160,
   'showImageNumberLabel': false,
 });
